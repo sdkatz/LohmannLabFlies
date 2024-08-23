@@ -2,6 +2,6 @@
 A repository of python codes used by the Lohmann Lab to an in our analysis of environmental contaminates 
 
 
-** File Organization **
+**File Organization**
 
-Files are divided into two folders processing files and figure files
+Files are divided into two folders processing files and figure files.
